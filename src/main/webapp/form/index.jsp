@@ -61,7 +61,7 @@
 	<p>JSP와 서블릿은 실제로는 거의 같은 것이다. 다만 JSP는 html을 작성하기에 더 편하고, 서블릿은 자바 코드를 작성하기에 더 편하다.</p>
 	
 	<form action="./pizzaOrder.jsp" method="GET">
-		토핑;
+		토핑:
 		<select name="topping">
 			<option value="pe">페퍼로니</option>
 			<option value="hawaii">하와이안</option>
